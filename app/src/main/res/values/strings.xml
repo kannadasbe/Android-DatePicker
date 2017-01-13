@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Datepicker</string>
+    <string name="current_date">Show Selected Date</string>
+</resources>
